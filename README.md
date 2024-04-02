@@ -1,9 +1,4 @@
-# title
-## title
 
-`
-num =10
-console.log(num)
 `
 
 - 👋 Hi, I’m @downy1218
